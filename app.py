@@ -1,4 +1,5 @@
 """
+A quick-and-dirty integration of GitHub service hooks and Optimizely's Experiment API.
 """
 
 
